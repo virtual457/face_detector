@@ -12,10 +12,12 @@
 <br />
 <div align="center">
 
-  <h3 align="center">👤 Face Detection System</h3>
+  <h3 align="center">👤 Face Detection System - Educational Project</h3>
 
   <p align="center">
-    A real-time face detection application built with OpenCV and Python, capable of detecting faces in images and video streams with high accuracy and performance.
+    <em>Basic Learning Project:</em> A real-time face detection application built with OpenCV and Python, capable of detecting faces in images and video streams with high accuracy and performance.
+    <br/>
+    <em>Last Updated: 2025-01-19 | Computer Vision Learning Project</em>
     <br />
     <a href="https://github.com/virtual457/face_detector"><strong>Explore the docs »</strong></a>
     <br />
